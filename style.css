@@ -21,5 +21,12 @@ h2 {
 }
 
 h3 {
-  font-size: 1em;
+  font-size: 1.15em;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #000000;
+    color: #ffffff;
+  }
 }
