@@ -1,1 +1,25 @@
+body {
+  margin: 1em auto;
+  max-width: 40em;
+  padding: 0 0.62em 3.24em;
+  font: 1.2em / 1.62 sans-serif;
+}
 
+h1,
+h2,
+h3 {
+  line-height: 1.2;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+h3 {
+  font-size: 1em;
+}
